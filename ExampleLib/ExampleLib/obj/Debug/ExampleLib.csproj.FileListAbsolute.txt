@@ -1,0 +1,27 @@
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleLib\bin\Debug\ExampleLib.dll
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleLib\bin\Debug\ExampleLib.pdb
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csprojResolveAssemblyReference.cache
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csproj.CoreCompileInputs.cache
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleLib\obj\Debug\ExampleLib.dll
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleLib\obj\Debug\ExampleLib.pdb
+F:\Research\ExampleLib\ExampleLib\bin\Debug\ExampleLib.dll
+F:\Research\ExampleLib\ExampleLib\bin\Debug\ExampleLib.pdb
+F:\Research\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csprojAssemblyReference.cache
+F:\Research\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csproj.CoreCompileInputs.cache
+F:\Research\ExampleLib\ExampleLib\obj\Debug\ExampleLib.dll
+F:\Research\ExampleLib\ExampleLib\obj\Debug\ExampleLib.pdb
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\bin\Debug\ExampleLib.dll
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\bin\Debug\ExampleLib.pdb
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csprojAssemblyReference.cache
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csproj.CoreCompileInputs.cache
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\obj\Debug\ExampleLib.dll
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\obj\Debug\ExampleLib.pdb
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\ExampleLib\ExampleLib\bin\Debug\ExampleLib.dll
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\ExampleLib\ExampleLib\bin\Debug\ExampleLib.pdb
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csprojAssemblyReference.cache
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csproj.CoreCompileInputs.cache
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\ExampleLib\ExampleLib\obj\Debug\ExampleLib.dll
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\ExampleLib\ExampleLib\obj\Debug\ExampleLib.pdb
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\bin\Debug\Microsoft.Kinect.dll
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\bin\Debug\Microsoft.Kinect.xml
+C:\Users\CIM2\Desktop\ExampleLib\ExampleLib\obj\Debug\ExampleLib.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\bin\Debug\ExampleWpf.exe.config
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\bin\Debug\ExampleWpf.exe
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\bin\Debug\ExampleWpf.pdb
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\bin\Debug\ExampleLib.dll
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\bin\Debug\ExampleLib.pdb
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf.csprojResolveAssemblyReference.cache
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\App.g.cs
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf_MarkupCompile.cache
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf_MarkupCompile.lref
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\MainWindow.baml
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf.g.resources
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf.Properties.Resources.resources
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf.csproj.GenerateResource.Cache
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf.csproj.CoreCompileInputs.cache
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf.exe
+C:\Users\Gareth-RML\source\repos\ExampleLib\ExampleWpf\obj\Debug\ExampleWpf.pdb

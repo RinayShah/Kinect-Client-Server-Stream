@@ -1,0 +1,10 @@
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\bin\Debug\ExampleConsoleServer.exe.config
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\bin\Debug\ExampleConsoleServer.exe
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\bin\Debug\ExampleConsoleServer.pdb
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\bin\Debug\ExampleLib.dll
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\bin\Debug\ExampleLib.pdb
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\obj\Debug\ExampleConsoleServer.csprojAssemblyReference.cache
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\obj\Debug\ExampleConsoleServer.csproj.CoreCompileInputs.cache
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\obj\Debug\ExampleConsoleServer.csproj.CopyComplete
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\obj\Debug\ExampleConsoleServer.exe
+C:\Users\CIM2\Desktop\ExampleLib\ExampleConsoleServer\obj\Debug\ExampleConsoleServer.pdb

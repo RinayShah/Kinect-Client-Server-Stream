@@ -1,0 +1,110 @@
+E:\Research\kinect-2-body-recorder-master\bin\Debug\KinectStreams.exe.config
+E:\Research\kinect-2-body-recorder-master\bin\Debug\KinectStreams.exe
+E:\Research\kinect-2-body-recorder-master\bin\Debug\KinectStreams.pdb
+E:\Research\kinect-2-body-recorder-master\bin\Debug\Microsoft.Kinect.dll
+E:\Research\kinect-2-body-recorder-master\bin\Debug\Microsoft.Kinect.xml
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csprojAssemblyReference.cache
+E:\Research\kinect-2-body-recorder-master\obj\Debug\MainWindow.baml
+E:\Research\kinect-2-body-recorder-master\obj\Debug\App.baml
+E:\Research\kinect-2-body-recorder-master\obj\Debug\MainWindow.g.cs
+E:\Research\kinect-2-body-recorder-master\obj\Debug\App.g.cs
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams_MarkupCompile.cache
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.g.resources
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.Properties.Resources.resources
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.GenerateResource.cache
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.CoreCompileInputs.cache
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.CopyComplete
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.exe
+E:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.pdb
+F:\Research\kinect-2-body-recorder-master\bin\Debug\KinectStreams.exe.config
+F:\Research\kinect-2-body-recorder-master\bin\Debug\KinectStreams.exe
+F:\Research\kinect-2-body-recorder-master\bin\Debug\KinectStreams.pdb
+F:\Research\kinect-2-body-recorder-master\bin\Debug\Microsoft.Kinect.dll
+F:\Research\kinect-2-body-recorder-master\bin\Debug\Microsoft.Kinect.xml
+F:\Research\kinect-2-body-recorder-master\obj\Debug\MainWindow.baml
+F:\Research\kinect-2-body-recorder-master\obj\Debug\App.baml
+F:\Research\kinect-2-body-recorder-master\obj\Debug\MainWindow.g.cs
+F:\Research\kinect-2-body-recorder-master\obj\Debug\App.g.cs
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams_MarkupCompile.cache
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.g.resources
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.Properties.Resources.resources
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.GenerateResource.Cache
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.CoreCompileInputs.cache
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.exe
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.pdb
+F:\Research\kinect-2-body-recorder-master\bin\Debug\ExampleLib.dll
+F:\Research\kinect-2-body-recorder-master\bin\Debug\ExampleLib.pdb
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csprojAssemblyReference.cache
+F:\Research\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.CopyComplete
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\bin\Debug\KinectStreams.exe.config
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\bin\Debug\KinectStreams.exe
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\bin\Debug\KinectStreams.pdb
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\bin\Debug\ExampleLib.dll
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\bin\Debug\Microsoft.Kinect.dll
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\bin\Debug\ExampleLib.pdb
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\bin\Debug\Microsoft.Kinect.xml
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csprojAssemblyReference.cache
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\MainWindow.baml
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\App.baml
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\MainWindow.g.cs
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\App.g.cs
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams.g.resources
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.GenerateResource.cache
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.CoreCompileInputs.cache
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.CopyComplete
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams.exe
+C:\Users\CIM2\Desktop\kinect-2-body-recorder-master\obj\Debug\KinectStreams.pdb
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csprojAssemblyReference.cache
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\MainWindow.baml
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\App.baml
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\MainWindow.g.cs
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\App.g.cs
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\KinectStreams.g.resources
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.GenerateResource.cache
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\KinectStreams.csproj.CoreCompileInputs.cache
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\KinectStreams.exe
+C:\Users\CIM2\Desktop\Kinect TCP-IP Stream\kinect-2-body-recorder-master\obj\Debug\KinectStreams.pdb
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\bin\Debug\KinectStreams.exe.config
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\bin\Debug\KinectStreams.exe
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\bin\Debug\KinectStreams.pdb
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\bin\Debug\ExampleLib.dll
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\bin\Debug\Microsoft.Kinect.dll
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\bin\Debug\ExampleLib.pdb
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\bin\Debug\Microsoft.Kinect.xml
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams.csprojAssemblyReference.cache
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\MainWindow.baml
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\App.baml
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\MainWindow.g.cs
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\App.g.cs
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams.g.resources
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams.csproj.GenerateResource.cache
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams.csproj.CoreCompileInputs.cache
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams.csproj.CopyComplete
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams.exe
+C:\Users\CAVEMR1\Desktop\kinect-2-body-recorder-master - Copy\obj\Debug\KinectStreams.pdb
+C:\Users\CIM2\Desktop\kinect-2-copy\bin\Debug\KinectStreams.exe.config
+C:\Users\CIM2\Desktop\kinect-2-copy\bin\Debug\KinectStreams.exe
+C:\Users\CIM2\Desktop\kinect-2-copy\bin\Debug\KinectStreams.pdb
+C:\Users\CIM2\Desktop\kinect-2-copy\bin\Debug\ExampleLib.dll
+C:\Users\CIM2\Desktop\kinect-2-copy\bin\Debug\Microsoft.Kinect.dll
+C:\Users\CIM2\Desktop\kinect-2-copy\bin\Debug\ExampleLib.pdb
+C:\Users\CIM2\Desktop\kinect-2-copy\bin\Debug\Microsoft.Kinect.xml
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams.csprojAssemblyReference.cache
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\MainWindow.baml
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\App.baml
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\MainWindow.g.cs
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\App.g.cs
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams.g.resources
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams.csproj.GenerateResource.cache
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams.csproj.CoreCompileInputs.cache
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams.csproj.CopyComplete
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams.exe
+C:\Users\CIM2\Desktop\kinect-2-copy\obj\Debug\KinectStreams.pdb
