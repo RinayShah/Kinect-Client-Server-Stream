@@ -1,4 +1,4 @@
-This project streams the x,y,z coordinates of the 25 joints to a server computer and records the data on CSV file. It uses TCP/IP Client Server Netowrk to pass over the joint data to another computer.  This porject uses the source code from: https://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/
+This project streams the x,y,z coordinates of the 25 joints to a server computer and records the data on CSV file. It uses TCP/IP Client Server Netowrk to pass over the joint data to another computer.  This project uses the source code from: https://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/
 
 I have added features incuding:
 - Record Joint Data on CSV file
